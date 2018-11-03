@@ -33,7 +33,7 @@ namespace MovieSearch
         * An example of the json response from omdbapi is included in the VS Project (ExampleResponse.json)
         */
 
-        public static string[] getMovieTitles(string s)
+        public static string[] getMovieTitles(string substr)
         {
             throw new NotImplementedException();
         }
