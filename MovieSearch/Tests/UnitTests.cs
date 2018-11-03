@@ -41,7 +41,7 @@ namespace Tests
                     "The Lightning Bill-Poster", "The Lightning Bolt", "The Lightning Conductor", "The Lightning Express", "The Lightning Liver Cure", "The Lightning Paper Hanger",
                     "The Lightning Postcard Artist", "The Lightning Raider", "The Lightning Rider", "The Lightning Round", "The Lightning Slider", "The Lightning Testimonies",
                     "The Lightning Tree", "The Lightning War", "The Lightning Warrior", "The Making of 'The Shock of the Lightning'", "The Scent of Rain & Lightning",
-                    "The Shadow of Lightning Ridge", "Thoreau and the Lightning", "We, Hit by the Lightning", "When the Lightning Struck" }
+                    "The Shadow of Lightning Ridge", "Thoreau and the Lightning", "We, Hit by the Lightning", "When the Lightning Struck" };
 
             // Act
             string[] ActualResults = MovieTitles.getMovieTitles(searchTerm);
