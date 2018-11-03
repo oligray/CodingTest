@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MovieSearch
 {
-    class Program
+    public class MovieTitles
     {
         static void Main(string[] args)
         {
@@ -26,7 +26,7 @@ namespace MovieSearch
 
         }
 
-        private static string[] getMovieTitles(string s)
+        public static string[] getMovieTitles(string s)
         {
             throw new NotImplementedException();
         }
