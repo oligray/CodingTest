@@ -30,7 +30,6 @@ namespace MovieSearch
         *     s         =   Movie Title to Search For
         *     page      =   Page number of results
         *    
-        * An example of the json response from omdbapi is included in the VS Project (ExampleResponse.json)
         */
 
         public static string[] getMovieTitles(string substr)
